@@ -1,7 +1,7 @@
 ﻿<?php
 
 //登陆慕课网
-$data = "account=1851408496@qq.com&password=sk123456sk&remember=1";
+$data = "account=*********@qq.com&password=****&remember=1";
 $curl = curl_init();
 curl_setopt($curl,CURLOPT_URL,"https://mp.weixin.qq.com/cgi-bin/loginpage");
 curl_setopt($curl,CURLOPT_RETURNTRANSFER,true);
