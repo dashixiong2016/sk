@@ -1,5 +1,5 @@
 ﻿<?php
-
+echo 123;
 //登陆慕课网
 $data = "account=*********@qq.com&password=****&remember=1";
 $curl = curl_init();
