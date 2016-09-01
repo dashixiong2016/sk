@@ -6,3 +6,6 @@
  * Time: 13:28
  */
 echo 123;
+echo "hello wolrd";
+
+echo "wozhishi kankan a ";
